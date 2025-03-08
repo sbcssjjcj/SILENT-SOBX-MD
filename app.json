@@ -1,4 +1,4 @@
-{
+i{
   "name": "SILENT-SOBX-MD",
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³²",
   "logo": "https://telegra.ph/file/2a06381b260c3f096a612.jpg",
@@ -101,7 +101,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "✦sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ✦"
+      "value": SILENT-SOBX-MD~XFxRgIJa#kMCx5W15yNdTOw4BA9wr2L6GWM5257T_VxBowFW8s9Q"✦sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ✦"
     }, 
 
     "HEART_REACT": {
